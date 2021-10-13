@@ -26,7 +26,7 @@
 
 - 👨‍💻 **[My Web Portfolio](https://technicalnish.com/)** 
 
-- 📫 How to reach me **mrvishalsharma8@gmail.com**
+- 📫 How to reach me **nish251103@gmail.com**
 
 
 ## 🚀 Languages and Tools:
